@@ -19,6 +19,7 @@
         <center><input type="submit" name="rol" value="Alumno"></center>
     </form>
     </div>
+    <center><h1>BIENVENIDO AL DEPARTAMENTO DE ACTIVIDADES CULTURALES Y DEPORTIVAS</h1></center>
 </div>
 </body>
 </html>
